@@ -1,7 +1,7 @@
 # ReWise
-The Learning App
+## The Learning App
 
-## User / Teacher Registration
+### User / Teacher Registration
   - Classes
     - Lectures / Practicals
       - Study Material
